@@ -2,7 +2,7 @@
 
 ![Modern Panel Logo](./icon32.png)
 
-Modern Panel 是一款界面美观的 Chrome 浏览器扩展，旨在为您提供全新的新标签页体验。通过现代化的设计语言和丰富的自定义选项，让您的浏览器主页变得更加实用和个性化。
+Modern Panel 是一款界面美观的 Chrome 浏览器扩展，旨在为您提供全新的新标签页体验。通过现代化的设计语言和丰富的自定义选项，让您的浏览器主页变得更加实用和个性化。了解更多可以前往网页[https://panel.andyjin.website](https://panel.andyjin.website)
 
 ![index](./index.png)
 
@@ -33,6 +33,8 @@ Modern Panel 是一款界面美观的 Chrome 浏览器扩展，旨在为您提�
 - 数据持久化：所有设置自动保存到本地
 
 ## 安装方式
+
+目前支持Google Chrome和Microsoft Edge安装(均需开启开发者模式)，本文以Chrome为例~
 
 ### 开发者模式安装（推荐）
 1. 下载并解压扩展包到本地文件夹
@@ -129,7 +131,7 @@ A: 扩展使用本地系统时间，如需校准请调整系统时间设置
 ## 版本更新
 
 ### 更新日志
-查看详细的版本更新历史，请访问我们的[更新日志页面](https://your-domain.com/changelog)
+查看详细的版本更新历史，请访问我们的[更新日志页面](https://gitcode.com/csdnjxx/ModernPanel/releases)
 
 ### 自动更新
 - 扩展支持自动检查更新功能
@@ -151,7 +153,7 @@ A: 扩展使用本地系统时间，如需校准请调整系统时间设置
 ### 联系方式
 - 平台反馈中心：[点击前往](https://cs.andyjin.website/feedback)
 - 技术支持邮箱：2358155969@qq.com
-- GitHub Issues
+- Issues
 
 ---
 
