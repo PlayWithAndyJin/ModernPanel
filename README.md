@@ -131,7 +131,7 @@ A: 扩展使用本地系统时间，如需校准请调整系统时间设置
 ## 版本更新
 
 ### 更新日志
-查看详细的版本更新历史，请访问我们的[更新日志页面](https://gitcode.com/csdnjxx/ModernPanel/releases)
+查看详细的版本更新历史，请访问我们的[更新日志页面](https://github.com/PlayWithAndyJin/ModernPanel/releases)
 
 ### 自动更新
 - 扩展支持自动检查更新功能
