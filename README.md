@@ -1,8 +1,8 @@
 # Modern Panel - 现代化浏览器新标签页扩展
 
-![Modern Panel Logo](./icon32.png)
+<p align="center"><img src="./icon32.png" alt="logo" /></p>
 
-Modern Panel 是一款界面美观的 Chrome 浏览器扩展，旨在为您提供全新的新标签页体验。通过现代化的设计语言和丰富的自定义选项，让您的浏览器主页变得更加实用和个性化。了解更多可以前往网页[https://panel.andyjin.website](https://panel.andyjin.website)
+Modern Panel 是一款界面美观的 Chrome 浏览器扩展，旨在为您提供全新的新标签页体验。通过现代化的设计语言和丰富的自定义选项，让您的浏览器主页变得更加实用和个性化。
 
 ![index](./index.png)
 
